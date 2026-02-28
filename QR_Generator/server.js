@@ -90,7 +90,7 @@ const sendQR = async (res, data, opts, meta = {}) => {
 // ══════════════════════════════════════════════
 app.get("/", (req, res) => {
   res.json({
-    name: "⬛ QR Code Generator & Decoder API",
+    name: "QR Code Generator & Decoder API",
     version: "1.0.0",
     description: "Generate QR codes for URLs, text, WiFi, vCard, email, SMS, UPI & more. Decode QR from images.",
     endpoints: {
