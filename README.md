@@ -1,3 +1,3 @@
 # QR-Generator
 
-Used AI in this project
+This project is made using AI
